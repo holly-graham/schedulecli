@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/holly-graham/schedulecli/schedule"
 	"github.com/manifoldco/promptui"
-	"gitlab.com/parallellearning/lessons/lesson-08/01-trip-planning-cli/02-schedule/schedule"
 )
 
 const (
